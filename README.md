@@ -1,6 +1,6 @@
-# 🎵 Discord Music Bot
+# 🎵 Riffora — Discord Music Bot
 
-A feature-rich Discord Music Bot built with **Python**, **discord.py**, **yt-dlp**, and **FFmpeg**. The bot allows users to join voice channels, search and play music, manage a queue, skip songs, shuffle tracks, enable looping, and control playback directly from Discord.
+**Riffora** is a Discord music bot and web dashboard built with **Python**, **discord.py**, **FastAPI**, **React**, **yt-dlp**, and **FFmpeg**. It lets users play and manage music in Discord, while the private dashboard provides shared playback controls, queue management, and live player updates.
 
 ---
 
@@ -534,7 +534,7 @@ Possible enhancements include:
 * 💾 Persistent queues
 * 👥 Per-server music queues
 * 📊 Now-playing progress indicator
-* 🎨 Custom music dashboard
+* 🎨 Private Riffora web dashboard with Discord sign-in and live playback controls
 * ⏱️ Automatic inactivity timeout
 * 🎤 Support for additional audio sources
 * 📝 Command help menu
@@ -545,4 +545,4 @@ Possible enhancements include:
 
 **Meher Sarana Papineni**
 
-Built as a Discord music bot project using Python and Discord API technologies.
+Built as **Riffora**, a Discord music platform powered by Python and the Discord API.
